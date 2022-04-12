@@ -1,0 +1,5 @@
+side torrc configuration:
+
+ClientTransportPlugin obfs4 exec /usr/local/bin/obfs4proxyobfs4proxy/obfsproxyobfs4proxy/obfsproxyside torrc configuration:
+
+ClientTransportPlugin obfs4 exec /usr/local/bin/obfs4proxybuild: Do the release ritual for obfs4proxy-0.0.13go.sumgo.suminternal/x25519ell2: Initial import
